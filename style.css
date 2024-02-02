@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: Georgia, serif;
+}
+h1{
+    font-family: Impact, sans-serif;
+    font-weight: bold;
+    color: darkred;
+}
+h2{
+    color: darkred;
+    font-family: Impact, sans-serif;
+}
+p{
+    text-align: left;
+    color: black;
+}
